@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hey! I'm Steven 👋🏼
 
-<!--
-**stevennm/stevennm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :school: I'm an Engineering student and Python developer from 🇦🇷 Argentina. :snake:
 
-Here are some ideas to get you started:
+* :white_heart: I'm passionate about Data Science, Web Development and Blockchain technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌱 Currently I'm studying Machine Learning and its related libraries in Python.
+
+My main project up-to-date is TuRopa, which live version you can find <a href="https://turopa.com.ar">here</a> and you can learn more about it 
+<a href="">in this repository</a> 😉.
+
+### Languages and tools:
+* Python
+* Django
+* Pandas, Numpy, data-related libraries
+* PostgreSQL, MySQL, SQLite
+* BootStrap
+* JavaScript
+
+:speech_balloon: Spanish is my native language and I speak English at a proficient level.
+
+### Get in touch!
+*✨ <a href="https://www.linkedin.com/in/rstevenmartins/">Linkedin</a>
+
+*✨ <a href="mailto:rstevenmartins@gmail.com/">E-mail</a>
