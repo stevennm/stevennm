@@ -1,6 +1,6 @@
 # Hey! I'm Steven 👋🏼
 
-### :school: I'm an Engineering student and Python developer from 🇦🇷 Argentina. :snake:
+### :school: I'm an Engineering student and Python developer.
 
 * :white_heart: I'm passionate about Data Science, Web Development and Blockchain technologies.
 
