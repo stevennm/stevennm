@@ -7,7 +7,7 @@
 * 🌱 Currently I'm studying Machine Learning and its related libraries in Python.
 
 My main project up-to-date is TuRopa, which live version you can find <a href="https://turopa.com.ar">here</a> and you can learn more about it 
-<a href="">in this repository</a> 😉.
+<a href="https://github.com/stevennm/turopa-public">in this repository</a> 😉.
 
 ### Languages and tools:
 * Python
