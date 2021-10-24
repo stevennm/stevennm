@@ -17,8 +17,6 @@ My main project up-to-date is TuRopa, which live version you can find <a href="h
 * BootStrap
 * JavaScript
 
-:speech_balloon: Spanish is my native language and I speak English at a proficient level.
-
 ### Get in touch!
 *✨ <a href="https://www.linkedin.com/in/rstevenmartins/">Linkedin</a>
 
