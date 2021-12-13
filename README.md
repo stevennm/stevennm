@@ -6,7 +6,9 @@
 
 * 🌱 Currently I'm studying Machine Learning and its related libraries in Python.
 
-My main project up-to-date is TuRopa, which live version you can find <a href="https://turopa.com.ar">here</a> and you can learn more about it 
+My main data-related project up-to-date can be found <a href="https://github.com/stevennm/locales_en_venta_2020_prediccion_precios">in this repository.</a> You can find a live "playground" version <a href="https://share.streamlit.io/stevennm/regression_models_premises_bsas_app/app.py">here</a>. (It's in spanish)
+
+My main web-development project is TuRopa, which live version you can find <a href="https://turopa.com.ar">here</a> and you can learn more about it 
 <a href="https://github.com/stevennm/turopa-public">in this repository</a> 😉.
 
 ### Languages and tools:
